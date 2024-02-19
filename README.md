@@ -62,4 +62,4 @@ jupyter notebook
 
 Feel free to reach out for any questions or collaborations!
 
-**Thank you for visiting myrepo and happy data analyzing!**
+**Thank you for visiting my repository and happy data analyzing!**
