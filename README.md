@@ -36,7 +36,7 @@ cd EDA-and-Machine-Learning-on-Ecommerce-Customer-Device-Usage
 jupyter notebook
 ```
 
-3. Open the notebook in your browser and navigate to the `analysis.ipynb` file.
+3. Open the notebook in your browser and navigate to the `e_commerce_customers_device_usage.ipynb` file.
 
 ## Notebook Contents
 
